@@ -1043,7 +1043,7 @@
               "z-index": "auto"
             },
             "H2": {
-              "color": "#adc966",
+              "color": "#e25b44",
               "text-align": "center"
             },
             "B": {
@@ -1068,7 +1068,7 @@
             "slides": [
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1102,7 +1102,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
