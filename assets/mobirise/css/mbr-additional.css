@@ -1390,6 +1390,7 @@ body {
 .cid-r54Hpr1mAV .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
+  background-color: #232323;
 }
 .cid-r54Hpr1mAV .card-img span {
   font-size: 100px;
@@ -1397,6 +1398,8 @@ body {
 }
 .cid-r54Hpr1mAV .card-box {
   padding-bottom: 2rem;
+  background-color: #232323;
+  background: linear-gradient(#232323, transparent);
 }
 .cid-r54Hpr1mAV .card-box .card-title {
   margin: 0;
