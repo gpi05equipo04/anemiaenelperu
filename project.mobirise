@@ -46,7 +46,8 @@
     "favicon": "@PROJECT_PATH@/assets/images/ibm-pucp-upch-128x128.png",
     "noImageResize": "",
     "uniqCompNum": 3,
-    "versionPublish": "4.8.2"
+    "versionPublish": "4.8.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
