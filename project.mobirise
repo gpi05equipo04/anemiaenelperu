@@ -43,7 +43,7 @@
         "url": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300i,700"
       }
     ],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/ibm-pucp-upch-128x128.png",
     "noImageResize": "",
     "uniqCompNum": 3,
     "versionPublish": "4.8.2"
