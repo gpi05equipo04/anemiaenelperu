@@ -3,7 +3,6 @@
 
 
 
-
 body {
   font-style: normal;
   line-height: 1.5;
@@ -20,7 +19,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'MyriadPro-Bold';
   font-size: 4.4rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1372,10 +1371,24 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-r5gsnbWhj0 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #f7c530;
+}
+.cid-r5gsnbWhj0 H2 {
+  color: #000000;
+}
+.cid-r5gsnbWhj0 .mbr-section-subtitle {
+  color: #2e2e2e;
+}
+.cid-r5gsnbWhj0 SPAN {
+  color: #000000;
+}
 .cid-r54Hpr1mAV {
-  padding-top: 135px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/portada-1-2000x640.jpg");
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f7c530;
 }
 .cid-r54Hpr1mAV h4 {
   font-weight: 500;
@@ -1390,7 +1403,6 @@ body {
 .cid-r54Hpr1mAV .card-img {
   border-radius: 0;
   padding: 2rem 2rem 0 2rem;
-  background-color: #232323;
 }
 .cid-r54Hpr1mAV .card-img span {
   font-size: 100px;
@@ -1398,8 +1410,6 @@ body {
 }
 .cid-r54Hpr1mAV .card-box {
   padding-bottom: 2rem;
-  background-color: #232323;
-  background: linear-gradient(#232323, transparent);
 }
 .cid-r54Hpr1mAV .card-box .card-title {
   margin: 0;
@@ -1431,16 +1441,37 @@ body {
 }
 .cid-r56EjMCIy6 P {
   text-align: left;
-  color: #ffffff;
+  color: #cccccc;
+}
+.cid-r56EjMCIy6 B {
+  color: #c9990b;
+}
+.cid-r5gCkQXRwT {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f7c530;
+}
+.cid-r5gCkQXRwT .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-r5gCkQXRwT .mbr-author-name {
+  font-weight: bold;
+  color: #000000;
+  text-align: left;
+}
+.cid-r5gCkQXRwT .mbr-author-desc {
+  color: #232;
 }
 .cid-r579eNzpZ4 .navbar {
-  background: #f7c530;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-r579eNzpZ4 .navbar-dropdown.bg-color.transparent.opened {
-  background: #f7c530;
+  background: #ffffff;
 }
 .cid-r579eNzpZ4 a {
   font-style: normal;
@@ -1524,7 +1555,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r579eNzpZ4 .dropdown .dropdown-menu {
-  background: #f7c530;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
