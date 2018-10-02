@@ -40,10 +40,10 @@ body {
 }
 .display-5 {
   font-family: 'MYRIADPRO-REGULAR';
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 1.92rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -74,9 +74,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1430,8 +1430,8 @@ body {
   text-align: center;
 }
 .cid-r56EjMCIy6 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 135px;
+  padding-bottom: 135px;
   background-image: url("../../../assets/images/nio-chino-volteado-1125x900.jpg");
 }
 .cid-r56EjMCIy6 H1 {
@@ -1445,23 +1445,71 @@ body {
 .cid-r56EjMCIy6 B {
   color: #f7c530;
 }
-.cid-r5gCkQXRwT {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-r5jGicbLLh {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #f7c530;
 }
-.cid-r5gCkQXRwT .testimonial-text {
-  font-style: italic;
-  color: #676767;
-  font-weight: 300;
+@media (max-width: 767px) {
+  .cid-r5jGicbLLh .media-wrap {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
 }
-.cid-r5gCkQXRwT .mbr-author-name {
-  font-weight: bold;
+.cid-r5jGicbLLh .media-wrap .mbr-iconfont-logo {
+  font-size: 7rem;
+  color: #f36;
+}
+.cid-r5jGicbLLh .media-wrap img {
+  height: 6rem;
+}
+.cid-r5jGicbLLh .mbr-text {
+  color: #767676;
+}
+@media (max-width: 767px) {
+  .cid-r5jGicbLLh .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-r5jGicbLLh .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #000;
+  opacity: .05;
+}
+.cid-r5jGicbLLh .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-r5jGicbLLh .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #232323;
+}
+.cid-r5jGicbLLh .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-r5jGicbLLh .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-r5jGicbLLh .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-r5jGicbLLh .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-r5jGicbLLh .links {
   color: #000000;
-  text-align: left;
-}
-.cid-r5gCkQXRwT .mbr-author-desc {
-  color: #232;
 }
 .cid-r579eNzpZ4 .navbar {
   background: #ffffff;
