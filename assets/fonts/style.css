@@ -2,3 +2,7 @@
    font-family: 'MyriadPro-Bold';
    src: url('MyriadPro-Bold/font.ttf');
 }
+@font-face {
+   font-family: 'MYRIADPRO-REGULAR';
+   src: url('MYRIADPRO-REGULAR/font.TTF');
+}
