@@ -196,10 +196,10 @@
             },
             "P": {
               "text-align": "left",
-              "color": "#cccccc"
+              "color": "#ffffff"
             },
             "B": {
-              "color": "#c9990b"
+              "color": "#f7c530"
             }
           },
           "_name": "header1",
