@@ -66,7 +66,7 @@
     ],
     "favicon": "@PROJECT_PATH@/assets/images/ibm-pucp-upch-128x128.png",
     "noImageResize": "",
-    "uniqCompNum": 68,
+    "uniqCompNum": 72,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png"
   },
@@ -1004,96 +1004,23 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Impacto económico de la Anemia en el Perú",
+                "active": false
+              },
+              {
+                "tags": "Creativa",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/1obl-lorena-alcazar-impacto-econmico-de-la-anemia-en-el-per-pgina-1-1873x2776.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1obl-lorena-alcazar-impacto-econmico-de-la-anemia-en-el-per-pgina-1-1873x2776-800x1186.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Impacto económico de la Anemia en el Perú",
                 "active": true
-              },
-              {
-                "tags": "Animada",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery03.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Escribir subtítulo aquí",
-                "active": false
-              },
-              {
-                "tags": "Increíble",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery04.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Escribir subtítulo aquí",
-                "active": false
-              },
-              {
-                "tags": "Increíble",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery05.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Escribir subtítulo aquí",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery06.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Escribir subtítulo aquí",
-                "active": false
-              },
-              {
-                "tags": "Animada",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/gallery07.jpg",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Escribir subtítulo aquí",
-                "active": false
               }
             ]
           }
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-size: 1.09rem;\"><b><span style=\"font-style: normal;\">Zavaleta, N. y Astete, L. (2017).</span> Efecto de la anemia en el desarrollo infantil: consecuencias a largo plazo.</b></span></p><p><span style=\"font-size: 1.09rem;\"><b><br></b>Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and </span><b style=\"font-size: 1.09rem;\">mobile friendly websites</b><span style=\"font-size: 1.09rem;\"> in a few clicks. Mobirise is one of the easiest website development tools </span><a href=\"https://mobirise.com/\" style=\"font-size: 1.09rem; background-color: rgb(255, 255, 255);\">available</a><span style=\"font-size: 1.09rem;\"> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</span><br></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "r7mHM4tuTB",
-          "_anchor": "content2-1p",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
         },
         {
           "_styles": {
@@ -1131,11 +1058,11 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                <blockquote><p><br></p><p>&nbsp;&nbsp;</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content2-1v",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Impacto económico de la Anemia en el Perú</b></span></p><p>El estudio realizado por Lorena Alcazar fue fundamental para poder estimar la carga económica que la anemia representa para el Perú en el último año, ya que ha sido la única literatura que trata el tema de manera tan específica para el caso peruano aplicando los ajustes necesarios para obtener el costo a nivel nacional y regional con el fin de comparar el impacto en cada región.\n</p><p>\n<span style=\"font-size: 1.09rem;\">Este abarca de manera cualitativa y cuantitativa el impacto de anemia sobre las sociedades, haciendo énfasis en los niños y gestantes, por lo que su aporte no ha sido exclusivo para el análisis económico.  También explica las limitaciones que podría enfrentar el estudio como asumir ciertas generalidades o usar porcentajes estimados de otros países para el cálculo nacional; no obstante, son medidas necesarias ante la falta de información nacional disponible.&nbsp;</span></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-1w",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "rbjHqG746q",
+          "_cid": "rbkg3MuRMp",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -1154,11 +1081,11 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Efecto de la anemia en el desarrollo infantil consecuencias a largo plazo</b></span></p><p><span style=\"font-size: 1.09rem;\">Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. Mobirise Website Builder creates responsive, retina and </span><b style=\"font-size: 1.09rem;\">mobile friendly websites</b><span style=\"font-size: 1.09rem;\"> in a few clicks. Mobirise is one of the easiest website development tools </span><a href=\"https://mobirise.com/\" style=\"font-size: 1.09rem; background-color: rgb(255, 255, 255);\">available</a><span style=\"font-size: 1.09rem;\"> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</span><br></p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_anchor": "content2-1t",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#000000\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-4\" data-multiline mbr-article>\n                <blockquote><p><span style=\"font-style: normal;\"><b>Portada del MINSA - Anemia</b></span></p><p>La fuente mencionada presenta los efectos de la anemia en el desarrollo infantil en los primeros 3 años de vida del infante así como también muestra las cifras de prevalencia de anemia en este grupo de edad en el Perú.\n</p><p>Por otra parte muestra un mapa conceptual con factores determinantes externos de la anemia, como debería desarrollarse un niño de este grupo de edad y la comparación con un niño que padece de anemia en este rango.\n</p><p>Y por último, muestra que recomendaciones da la OMS para tratar la anemia, como también las medidas y programas que han tomado otros países con respecto a la anemia y la sus resultados, adicionando los métodos que tomo el Perú para reducir la prevalencia de anemia y sus datos estadísticos.&nbsp;</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content2-1z",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
-          "_cid": "rbjFU36P6j",
+          "_cid": "rbkkt2R2gv",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
