@@ -1913,109 +1913,6 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background5.jpg");
 }
-.cid-r56JQ0Ll5V P {
-  text-align: center;
-}
-.cid-rbis7IYKdc {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-@media (min-width: 992px) {
-  .cid-rbis7IYKdc .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rbis7IYKdc .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rbis7IYKdc .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rbis8Su7w3 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-@media (min-width: 992px) {
-  .cid-rbis8Su7w3 .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rbis8Su7w3 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rbis8Su7w3 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rbis98oqo1 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-@media (min-width: 992px) {
-  .cid-rbis98oqo1 .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rbis98oqo1 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rbis98oqo1 .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rbis9tYsRu {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-@media (min-width: 992px) {
-  .cid-rbis9tYsRu .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rbis9tYsRu .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rbis9tYsRu .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rbis9RTVYk {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
-@media (min-width: 992px) {
-  .cid-rbis9RTVYk .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rbis9RTVYk .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rbis9RTVYk .mbr-text {
-    text-align: center;
-  }
-}
 .cid-r6j6WMwdMd {
   padding-top: 60px;
   padding-bottom: 15px;
@@ -2100,7 +1997,4 @@ body {
 }
 .cid-r6j76qyLTb .team-item .item-caption {
   background: #f7c530;
-}
-.cid-r6j76qyLTb .item-name {
-  text-align: center;
 }
