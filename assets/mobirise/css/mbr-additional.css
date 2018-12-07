@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
+
+
+
 body {
   font-style: normal;
   line-height: 1.5;
@@ -17,7 +20,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'MyriadPro-Bold';
+  font-family: 'Rubik', sans-serif;
   font-size: 4.4rem;
 }
 .display-1 > .mbr-iconfont {
@@ -38,14 +41,14 @@ body {
   font-size: 1.28rem;
 }
 .display-5 {
-  font-family: 'MYRIADPRO-REGULAR';
+  font-family: 'Rubik', sans-serif;
   font-size: 1.2rem;
 }
 .display-5 > .mbr-iconfont {
   font-size: 1.92rem;
 }
 .display-7 {
-  font-family: 'MyriadPro-Bold';
+  font-family: 'Rubik', sans-serif;
   font-size: 1.2rem;
 }
 .display-7 > .mbr-iconfont {
@@ -89,15 +92,12 @@ body {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
+  padding: 1rem 3rem;
+  border-radius: 3px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   word-break: break-word;
-  -webkit-align-items: center;
-  -webkit-justify-content: center;
-  display: -webkit-inline-flex;
-  padding: 1rem 3rem;
-  border-radius: 3px;
 }
 .btn-sm {
   font-weight: 500;
@@ -608,7 +608,6 @@ a:hover {
   left: 30%;
   bottom: 30%;
   transform: rotate(135deg);
-  -webkit-transform: rotate(135deg);
 }
 /* Others*/
 .note-check a[data-value=Rubik] {
@@ -649,13 +648,12 @@ a:hover {
   position: absolute;
   transform: rotate(45deg);
   width: 14px;
-  -webkit-transform: rotate(45deg);
 }
 .form-control {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'MyriadPro-Bold';
+  font-family: 'Rubik', sans-serif;
   font-size: 1.2rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -711,7 +709,6 @@ pre {
 }
 .mbr-section__comments .row {
   justify-content: center;
-  -webkit-justify-content: center;
 }
 /* Forms */
 .mbr-form .btn {
@@ -1163,7 +1160,10 @@ pre {
     align-items: center;
   }
   .navbar-toggleable-sm .navbar-collapse {
-    display: none;
+    display: -webkit-box !important;
+    display: -webkit-flex !important;
+    display: -ms-flexbox !important;
+    display: flex !important;
     width: 100%;
   }
   .navbar-toggleable-sm .navbar-toggler {
@@ -1351,7 +1351,6 @@ pre {
 }
 .menu .navbar.collapsed:not(.beta-menu) {
   flex-direction: column;
-  -webkit-flex-direction: column;
 }
 .carousel-item.active,
 .carousel-item-next,
@@ -1437,7 +1436,7 @@ body {
 }
 .cid-r56EjMCIy6 H1 {
   color: #f7c530;
-  text-align: right;
+  text-align: center;
 }
 .cid-r56EjMCIy6 P {
   text-align: left;
@@ -1510,6 +1509,48 @@ body {
   }
 }
 .cid-r5jGicbLLh .links {
+  color: #000000;
+}
+.cid-rbwBiA0Zbv {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/seccion-alimentacion-preescolar-y-escolar-780x450.jpg");
+}
+.cid-rbwBiA0Zbv P {
+  color: #000000;
+}
+.cid-rbwBiA0Zbv H1 {
+  color: #000000;
+}
+.cid-rbwBiA0Zbv H3 {
+  color: #000000;
+}
+.cid-rbwB1eIuvn {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+  background: linear-gradient(45deg, #efefef, #efefef);
+}
+@media (min-width: 992px) {
+  .cid-rbwB1eIuvn .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rbwB1eIuvn .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rbwB1eIuvn .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rbwB1eIuvn H1 {
+  color: #000000;
+}
+.cid-rbwB1eIuvn .mbr-text,
+.cid-rbwB1eIuvn .mbr-section-btn {
   color: #000000;
 }
 .cid-r579eNzpZ4 .navbar {
@@ -1901,15 +1942,48 @@ body {
 .cid-r579eNzpZ4 .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-r56IYIp4Se {
+.cid-rbwAZByhkQ {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
+  background-image: url("../../../assets/images/bebe-sano-660x330.jpg");
 }
-.cid-r56JQ0Ll5V {
+.cid-rbwAZByhkQ P {
+  text-align: center;
+  color: #000000;
+}
+.cid-rbwAZByhkQ H1 {
+  color: #000000;
+}
+.cid-rbwAZByhkQ H3 {
+  color: #000000;
+}
+.cid-rbwB0FE1F0 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background5.jpg");
+  background-color: #cccccc;
+  background: linear-gradient(45deg, #cccccc, #ffffff);
+}
+@media (min-width: 992px) {
+  .cid-rbwB0FE1F0 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rbwB0FE1F0 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rbwB0FE1F0 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-rbwB0FE1F0 H1 {
+  color: #000000;
+}
+.cid-rbwB0FE1F0 .mbr-text,
+.cid-rbwB0FE1F0 .mbr-section-btn {
+  color: #000000;
 }
 .cid-r6j6WMwdMd {
   padding-top: 60px;
